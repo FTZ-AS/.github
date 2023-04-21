@@ -1,11 +1,11 @@
 # Welcome to FTZ A/S Github profile!
 
 ## Who are we?
-FTZ is a Danish company that specializes in supplying auto parts and equipment to professional auto repair shops and dealerships. The company was founded in 1962 and has since grown to become a leading supplier of auto parts in Denmark, with more than 50 branches across the country.
+FTZ is a Danish company that specializes in supplying auto parts and equipment to professional auto repair shops and dealerships. The company was founded in 1962 and has since grown to become a leading supplier of auto parts in Denmark, with more than 49 branches across the country.
 
-FTZ offers a wide range of products, including engine parts, brakes, suspension components, electrical systems, and more. FTZ also provide tools and equipment that are essential for repairing and maintaining vehicles. FTZ prides itself on its high level of customer service, knowledgeable staff, and fast delivery times.
+FTZ offers a wide range of products, including engine parts, brakes, suspension components, electrical systems, and more. FTZ also provide tools and equipment that are essential for repairing and maintaining vehicles. FTZ prides itself on its high level of customer service, knowledgeable staff, and fast delivery times.  Furthermore, we offer business solutions and counsel our customers in how to optimize their business.   
 
-In addition to our brick-and-mortar locations, FTZ also operates an online store where customers can browse and purchase products. FTZ is committed to providing reliable and affordable auto parts to our customers, and FTZ work closely with leading manufacturers to ensure that FTZ are always offering the latest and highest quality products.
+In addition to our local locations, FTZ also operates an online store where customers can browse and purchase products. FTZ is committed to providing reliable and affordable auto parts to our customers, and FTZ work closely with leading manufacturers to ensure that FTZ always offer the latest and highest quality products.
 
 Overall, FTZ is a trusted and reputable company in the Danish automotive industry, known for our extensive selection of products, competitive prices, and excellent customer service.
 
